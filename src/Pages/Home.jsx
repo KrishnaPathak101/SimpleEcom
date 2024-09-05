@@ -1,7 +1,7 @@
 import React from 'react'
 import Hero from '../components/Hero'
 import SelectCategory from '../components/Select-Category'
-import Productlist from '../components/productlist'
+import Productlist from '../components/Productlist'
 import Footer from '../components/Footer'
 import Categories from '../components/Categories'
 
