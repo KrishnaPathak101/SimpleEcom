@@ -1,9 +1,6 @@
 import { useState } from 'react';
 import Header from './components/Header';
 import Categories from './components/Categories';
-import Hero from './components/Hero';
-import SelectCategory from './components/Select-Category';
-import Productlist from './components/productlist';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import ProductPage from './Pages/ProductPage';
 import Home from './Pages/Home';
