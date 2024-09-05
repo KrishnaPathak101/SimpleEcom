@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Carousel } from 'react-responsive-carousel';
 import { useLocation, useParams } from 'react-router-dom';
-import Productlist from '../components/productlist';
+import Productlist from '../components/Productlist';
 
 const ProductPage = () => {
   const location = useLocation();
